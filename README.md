@@ -20,5 +20,87 @@ Usage Guide: Showcases code snippets, API endpoints, or CLI commands illustratin
 
 
 
-Contribution Guidelines: Directs o
+Contribution Guidelines: 
+
+\# Python LLD Practice
+
+
+
+\## About This Project
+
+This repository contains my Python practice
+
+for Low-Level Design (LLD) concepts and
+
+Design Patterns.
+
+
+
+\## Technologies Used
+
+\- Python
+
+\- Object-Oriented Programming
+
+
+
+\## Design Patterns Covered
+
+1\. Singleton Pattern
+
+2\. Factory Pattern
+
+3\. Builder Pattern
+
+4\. Observer Pattern
+
+5\. Strategy Pattern
+
+6\. Adapter Pattern
+
+
+
+\## How to Run
+
+
+
+Clone the repository:
+
+
+
+```bash
+
+git clone https://github.com/username/Python-LLD.git
+
+```
+
+
+
+Navigate to the project folder:
+
+
+
+```bash
+
+cd Python-LLD
+
+```
+
+
+
+Run a Python file:
+
+
+
+```bash
+
+python singleton.py
+
+```
+
+
+
+\## Author
+
+Your Name
 
